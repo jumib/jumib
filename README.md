@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About me
 
-  -  full stack developer
+  -  frontend developer
   - how to reach me : baekjumi@naver.com
   - 📍 Seoul, Korea
 
