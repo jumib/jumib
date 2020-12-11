@@ -17,7 +17,7 @@
 
   -  React, Vue, html, css
   - java, springboot
-  - mysql 
+  - mysql, mariadb
   
   
   
