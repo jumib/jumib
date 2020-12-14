@@ -21,11 +21,11 @@
   
   
   
-## git status
+## 🐱 git status
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jumib&show_icons=true&theme=tokyonight)  
 
-## top langs
+## 🏷 top langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jumib&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
