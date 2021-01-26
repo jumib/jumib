@@ -15,7 +15,7 @@
  
 ## 💫 Stack
 
-  -  React, Vue, html, css
+  -  React, Vue, Javascript
   - java, springboot
   - mysql, mariadb
   - vscode, intellij
