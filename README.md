@@ -7,7 +7,7 @@
 ## 👩‍💻 About me
 
   -  frontend developer
-  - how to reach me : baekjumi@naver.com
+  - how to reach me : jcoderide@gmail.com
   - 📍 Seoul, Korea
 
 
