@@ -16,7 +16,7 @@
 ## 💫 Stack
 
   -  React, Vue, Javascript
-  - java, springboot
+  - springboot
   - mysql, mariadb
   - vscode, intellij
   
